@@ -21,6 +21,3 @@ This project is part of Month 1 of my AI/ML learning roadmap.
 - JSON for data storage
 - OOP (Classes & Methods)
 - Error handling
-
-## ▶️ How to Run
-1. Clone the repo:
